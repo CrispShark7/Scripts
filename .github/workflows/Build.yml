@@ -14,7 +14,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v5.0.0
         with:
-          repository: Centralmatrix3/Scripts
+          repository: CrispShark7/Scripts
           path: Scripts-repo
 
       - name: Scripts
